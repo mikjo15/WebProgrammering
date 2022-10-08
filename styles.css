@@ -22,6 +22,24 @@ input {
   font-family: Montserrat, sans-serif;
   transition: all 0.2s ease-in-out;
 }
+
+button {
+  background: transparent;
+  margin-bottom: 2em;
+  border: none;
+  border-left: 1px solid rgba(255, 255, 255, 0.3);
+  border-top: 1px solid rgba(255,255,255,0.3);
+  box-shadow: 2px 2px 10px rgba(255,255,255,0.3);
+  border-radius: 5000px;
+  backdrop-filter:
+  blur(5px);
+  color: rgb(0, 0, 0);
+  font-family: Montserrat, sans-serif;
+  transition: all 0.2s ease-in-out;
+
+
+}
+
 .container {
   height: 100vh;
   width: 100vw;
