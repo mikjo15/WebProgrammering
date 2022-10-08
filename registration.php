@@ -19,7 +19,7 @@
         <label for="password2">Repeat password</label> <br />
         <input type="password" name="password2" id="password2" pattern="[a-zA-Z0-9]+" minlength="6" maxlength="16" placeholder="******" required/> <br />
         <button type="submit" name="button">Register</button>
-        <p>Already a user? Wuhuu darny good! Click right <a href="index.php">HERE!</a></p>
+        <p>Already a user? Click right <a href="index.php">HERE!</a></p>
       </form>
     </div>
   </body>
