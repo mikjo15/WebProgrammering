@@ -9,11 +9,11 @@
     <div class="container">
       <form class="form" method="post" action="login.php">
         <label for="username">Username</label> <br />
-        <input type="text" name="username" id="username" /> <br />
+        <input type="text" name="username" id="username" placeholder="Username"/> <br />
         <label for="password">Password</label> <br />
-        <input type="text" name="password" id="password" /> <br />
+        <input type="text" name="password" id="password" placeholder="Password"/> <br />
         <button type="submit" name="button">Log In</button>
-        <p>If you're not a user, don't be thad, click right <a href="registration.php">HERE!</a></p>
+        <p>If you're not a user, click right <a href="registration.php">HERE!</a></p>
       </form>
     </div>
   </body>
