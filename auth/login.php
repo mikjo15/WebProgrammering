@@ -8,10 +8,11 @@ if (isset($_POST["username"])) {
 
   if($username=="Mikkel" & $password == "12345") {
     $_SESSION["auth"] = True;
-    header("location: UserList.php");
+    header("location: ../UserList.php");
   }
   else {
-    header("location: registration.php");
+    $_SESSION["auth"] = False;
+    header("location: ../registration.php");
   }
 }
 ?>

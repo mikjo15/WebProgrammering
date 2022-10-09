@@ -7,7 +7,7 @@
   </head>
   <body>
     <div class="container">
-      <form class="form" method="post" action="login.php">
+      <form class="form" method="post" action="auth/login.php">
         <label for="username">Username</label> <br />
         <input type="text" name="username" id="username" placeholder="Username"/> <br />
         <label for="password">Password</label> <br />
