@@ -58,6 +58,18 @@ button {
   backdrop-filter: blur(10px);
 }
 
+.userTable {
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+  padding: 10px;
+  margin: 10px;
+}
+
 @media (max-width: 575.98px) {
   .container {
     background-color: rgba(255, 255, 255, 0.3);
