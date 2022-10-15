@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>Welcome</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" href="favicon/favicon.ico">
   </head>
   <body>
     <div class="container">
