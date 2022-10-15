@@ -20,6 +20,7 @@
     <meta charset="utf-8">
     <title>Users</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" href="favicon/favicon.ico">
   </head>
   <body>
     <h1>Users</h1>

@@ -1,5 +1,4 @@
-<?php
-session_start();
+<?php session_start();
 $_SESSION["auth"] = False;
 
 if (isset($_POST["username"])) {
