@@ -29,5 +29,3 @@
     echo "Passwords not the same";
   }
 ?>
-
-<!-- Aa12345! -->

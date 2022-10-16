@@ -15,7 +15,7 @@ require_once 'db_config.php';
         //   `name` varchar(127) NOT NULL,
         //   `email` varchar(127) NOT NULL,
         //   `username` varchar(127) NOT NULL,
-        //   `password` varchar(127) NOT NULL
+        //   `password` varchar(255) NOT NULL
         //   );";
 
     } catch (PDOException $e) {
